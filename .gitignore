@@ -1,2 +1,4 @@
 # All ts compiled files
 *.js
+# node js package files
+node_modules/
